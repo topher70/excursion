@@ -38,3 +38,8 @@ p {
   display: block;
   text-align: center;
 }
+.footer {
+  color: Gray;
+  display: block;
+  text-align: right;
+}
